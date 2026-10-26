@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-color: #f5f7fb;
+  font-family: Arial, sans-serif;
+}
+
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.table th,
+.table td {
+  padding: 14px;
+  vertical-align: middle;
+}
